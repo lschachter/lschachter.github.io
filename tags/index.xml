@@ -4,7 +4,8 @@
     <title>Tags on Lillie Schachter</title>
     <link>https://lillie.dev/tags/</link>
     <description>Recent content in Tags on Lillie Schachter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lillie.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lillie.dev/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
